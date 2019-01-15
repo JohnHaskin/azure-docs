@@ -21,9 +21,11 @@ ms.reviewer: johnhas
 
 Validation as a Service (VaaS) provides the ability to automate the launching of tests using the **LaunchVaaSTests.ps1** script.
 
-You can use PowerShell for the following workflow:
+You can use PowerShell automation ONLY for the following workflow:
 
-- Test Pass
+- Test Pass Workflow
+
+PowerShell automation is NOT available for any other workflow. Test Pass Workflow results are not accepted for validation. 
 
 In this tutorial, you learn how to create a script that:
 
